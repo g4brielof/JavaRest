@@ -1,12 +1,15 @@
 
-- [] Prover um webservices com arquitetura REST para atender as demandas do site.
 
-- []Manutenção de produtos - Inclusão, Alteração, Exclusão.
+### Goals:
 
-- [] Consulta de Produtos - Por nome, valor, marca e categoria.
+- [ ] Prover um webservices com arquitetura REST para atender as demandas do site.
 
-- [] Manutenção\Consulta de Categorias (MOVEIS, ELETROS, BRINQUEDOS, ROUPAS e etc.).
+- [ ] Manutenção de produtos - Inclusão, Alteração, Exclusão.
 
-- []Manutenção\Consulta de Marcas - (APPLE, ESTRELA, BRASTEMP e etc).
+- [ ] Consulta de Produtos - Por nome, valor, marca e categoria.
 
-- [] Compra\Venda de Produtos via API com atualização de estoque.
+- [ ] Manutenção\Consulta de Categorias (MOVEIS, ELETROS, BRINQUEDOS, ROUPAS e etc.).
+
+- [ ] Manutenção\Consulta de Marcas - (APPLE, ESTRELA, BRASTEMP e etc).
+
+- [ ] Compra\Venda de Produtos via API com atualização de estoque.
